@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://freeimage.host/i/KyQYUa2" alt="A.R.I.A Logo" width="180" style="border-radius: 12px;">
+</p>
 <h1 align="center">🔧 A.R.I.A — Project</h1>
 
 <p align="center">
