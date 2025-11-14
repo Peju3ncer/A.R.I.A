@@ -1,5 +1,5 @@
 <a href="https://freeimage.host/i/KyQYUa2"><img src="https://iili.io/KyQYUa2.md.png" alt="KyQYUa2.md.png" border="0"></a>
-<h1 align="center">🔧 A.R.I.A — Project</h1>
+<h1 align="center">A.R.I.A — Project</h1>
 
 <p align="center">
   <em>Project riset keamanan siber tingkat lanjut — masih dalam tahap pengembangan.</em><br>
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚧 Status Proyek
+## Status Proyek
 A.R.I.A saat ini **belum selesai** dan masih berada pada fase **eksperimental / penelitian**.  
 Struktur modul, arsitektur, serta fitur inti sedang dalam proses desain, evaluasi, dan penulisan.
 
@@ -16,19 +16,19 @@ Proyek ini **tidak stabil**, **belum siap produksi**, dan mungkin mengalami peru
 
 ---
 
-## 🎯 Tujuan Proyek
+## Tujuan Proyek
 A.R.I.A dikembangkan sebagai:
 
 - Framework **penelitian keamanan siber**  
 - Sarana untuk menguji konsep **telemetri**, **automated response**, dan **secure remote diagnostics**  
 - Studi tentang **arsitektur komunikasi**, **audit keamanan**, dan **model autentikasi**  
 
-> ⚠️ **Tidak dirancang sebagai alat pengawasan ilegal atau akses tidak sah.**  
+> **Tidak dirancang sebagai alat pengawasan ilegal atau akses tidak sah.**  
 > Semua eksperimen dilakukan di lingkungan **tertutup**, **privat**, dan **sepenuhnya terkontrol**.
 
 ---
 
-## ⚠️ Peringatan & Kebijakan Penggunaan
+## Peringatan & Kebijakan Penggunaan
 Proyek ini ditujukan **hanya untuk riset internal dan eksperimen akademis**.
 
 Dengan mengakses repository ini, Anda setuju bahwa:
@@ -41,7 +41,7 @@ Dengan mengakses repository ini, Anda setuju bahwa:
 
 ---
 
-## 🛠️ Roadmap Development (Sementara)
+## Roadmap Development (Sementara)
 - [ ] Arsitektur komunikasi dasar  
 - [ ] Sistem autentikasi & otorisasi  
 - [ ] Kanal komunikasi terenkripsi  
@@ -54,7 +54,7 @@ Dengan mengakses repository ini, Anda setuju bahwa:
 
 ---
 
-## 👤 Pengembang
+## Pengembang
 Dikembangkan secara pribadi oleh:
 
 <a href="https://github.com/Peju3ncer">
@@ -63,7 +63,7 @@ Dikembangkan secara pribadi oleh:
 
 ---
 
-## 📝 Catatan Tambahan
+## Catatan Tambahan
 > Proyek ini **tidak akan dirilis ke publik** dan tidak memiliki rencana untuk dipublikasikan.  
 > Semua hak cipta, lisensi, dan distribusi tunduk pada kebijakan internal pemilik repository.
 
