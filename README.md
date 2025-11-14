@@ -1,5 +1,5 @@
 <a href="https://freeimage.host/i/KyQYUa2"><img src="https://iili.io/KyQYUa2.md.png" alt="KyQYUa2.md.png" border="0"></a>
-<h1 align="center">A.R.I.A — Project (V1.0</h1>
+<h1 align="center">A.R.I.A — Project (V1.0)</h1>
 
 <p align="center">
   <em>Project riset keamanan siber tingkat lanjut — masih dalam tahap pengembangan.</em><br>
