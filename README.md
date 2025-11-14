@@ -60,7 +60,7 @@ Dikembangkan secara pribadi oleh:
 <a href="https://github.com/Peju3ncer">
   <strong>Peju3ncer</strong>
 </a>
-& Kawan-kawan **IWI**
+ & Kawan-kawan dari **IWI**
 
 ---
 
