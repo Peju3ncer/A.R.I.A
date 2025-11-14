@@ -55,12 +55,9 @@ Dengan mengakses repository ini, Anda setuju bahwa:
 ---
 
 ## Pengembang
-Dikembangkan secara pribadi oleh:
+Dikembangkan bersama oleh:
 
-<a href="https://github.com/Peju3ncer">
-  <strong>Peju3ncer</strong>
-</a>
- & Kawan-kawan dari **IWI**
+- [Peju3ncer](https://github.com/Peju3ncer) & **Kawan-kawan dari IWI**
 
 ---
 
