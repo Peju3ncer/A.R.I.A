@@ -59,7 +59,8 @@ Dikembangkan secara pribadi oleh:
 
 <a href="https://github.com/Peju3ncer">
   <strong>Peju3ncer</strong>
-</a> & Kawan-kawan ***I.W.I***
+</a>
+& Kawan-kawan ***I.W.I***
 
 ---
 
