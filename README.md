@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://freeimage.host/i/KyQYUa2" alt="A.R.I.A Logo" width="180" style="border-radius: 12px;">
-</p>
+<a href="https://freeimage.host/i/KyQYUa2"><img src="https://iili.io/KyQYUa2.md.png" alt="KyQYUa2.md.png" border="0"></a>
 <h1 align="center">🔧 A.R.I.A — Project</h1>
 
 <p align="center">
